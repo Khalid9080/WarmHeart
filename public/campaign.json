@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Warmth Campaign - Dhaka",
+      "image": "https://i.postimg.cc/FzbYx2t9/images-1.jpg",
+      "description": "Providing blankets and warm clothing to underprivileged communities in Dhaka.",
+      "status": "Active",
+      "contactInfo": "+880123456789",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Chattogram Winter Relief Drive",
+      "image": "https://i.postimg.cc/66D1vC3Y/Distribution-of-winter-clothing-2023-1.jpg",
+      "description": "Distributing sweaters and jackets to families in need in Chattogram.",
+      "status": "Completed",
+      "contactInfo": "+880987654321",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Sylhet Blanket Distribution",
+      "image": "https://i.postimg.cc/RV1yxG12/5aaac2d1e1e438dc39e6a058f06c34bb-1200-80.webp",
+      "description": "A drive to distribute blankets in rural Sylhet to combat winter chills.",
+      "status": "Active",
+      "contactInfo": "+880555123456",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Rajshahi Winter Clothing Campaign",
+      "image": "https://i.postimg.cc/vmVMwf0j/blanket-distribution-2010-001.jpg",
+      "description": "Helping farmers and workers in Rajshahi with essential winter clothing.",
+      "status": "Upcoming",
+      "contactInfo": "+880666789101",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Barisal Winter Warmth Drive",
+      "image": "https://i.postimg.cc/cLwyDYXL/5-1.jpg",
+      "description": "Providing gloves and woolen caps to fishermen in Barisal.",
+      "status": "Active",
+      "contactInfo": "+880444321789",
+      "division": "Barisal"
+    },
+    {
+      "id": 6,
+      "title": "Khulna Warm Hearts Campaign",
+      "image": "https://i.postimg.cc/bN3c4pjK/20211219-152020-1-36125642-std.jpg",
+      "description": "Supplying thermal wear to children and elders in Khulna.",
+      "status": "Completed",
+      "contactInfo": "+880999567890",
+      "division": "Khulna"
+    },
+    {
+      "id": 7,
+      "title": "Mymensingh Winter Aid Program",
+      "image": "https://i.postimg.cc/2yXpb7TC/winter-blanket-and-cash.jpg",
+      "description": "Distributing shawls and blankets to rural families in Mymensingh.",
+      "status": "Active",
+      "contactInfo": "+880888765432",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 8,
+      "title": "Comilla Winter Relief Drive",
+      "image": "https://i.postimg.cc/hvXywWbq/77302636-1309639755882903-7391696646934888448-n.jpg",
+      "description": "Providing warm clothing to underprivileged communities in Comilla.",
+      "status": "Upcoming",
+      "contactInfo": "+880777123456",
+      "division": "Comilla"
+    },
+    {
+      "id": 9,
+      "title": "Rangpur Blanket Distribution",
+      "image": "https://i.postimg.cc/prKGxQ70/MA-Khulna-Bangladesh-11-1024x768.jpg",
+      "description": "Helping people in Rangpur cope with the cold through blanket distributions.",
+      "status": "Active",
+      "contactInfo": "+880666654321",
+      "division": "Rangpur"
+    },
+    {
+      "id": 10,
+      "title": "Dinajpur Winter Clothing Drive",
+      "image": "https://i.postimg.cc/LX3gpnDt/83711440-2676783959024806-4027082463397281792-o-960x600.jpg",
+      "description": "Distributing woolen scarves and sweaters in Dinajpur's colder regions.",
+      "status": "Completed",
+      "contactInfo": "+880555876543",
+      "division": "Dinajpur"
+    },
+    {
+      "id": 11,
+      "title": "Jessore Warm Hearts Campaign",
+      "image": "https://i.postimg.cc/0NF1yfWx/139045630-3528194057276421-3404927726693755108-o.jpg",
+      "description": "Supporting vulnerable groups in Jessore with warm clothing this winter.",
+      "status": "Active",
+      "contactInfo": "+880444987654",
+      "division": "Jessore"
+    },
+    {
+      "id": 12,
+      "title": "Gazipur Winter Essentials Drive",
+      "image": "https://i.postimg.cc/90T7nJSf/habiganj2-janu.jpg",
+      "description": "Providing thermal wear and blankets to workers in Gazipur.",
+      "status": "Upcoming",
+      "contactInfo": "+880999432101",
+      "division": "Gazipur"
+    }
+  ]
+  
